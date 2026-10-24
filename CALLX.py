@@ -1,4 +1,4 @@
-#ENCODED By : https://t.me/ZERO_CYBER_TEM 
+#ENCODED By : https://t.me/shuvocyberx 
 #ENCRYPTION : PY3 MARSHAL Fuking
 
 import marshal
